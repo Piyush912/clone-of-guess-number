@@ -1,2 +1,3 @@
 # clone-of-guess-number
-Choose number game
+Import random
+Import math
